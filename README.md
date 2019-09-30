@@ -86,6 +86,8 @@ Currently this project supports the following cameras:
 2. Get an microSD card, preferably of capacity 16gb or less and format it by selecting File System as FAT32.
 
 **_IMPORTANT: The microSD card must be formatted in FAT32. exFAT formatted microSD cards will not work._**
+**_IMPORTANT: The microSD card must be equal or less than 32GB._**
+**_IMPORTANT: The microSD card can't be replaced because it start the hack every time at the boot._**
 
 3. Get the correct firmware files for your camera from this link: https://github.com/TheCrypt0/yi-hack-v4/releases
 
